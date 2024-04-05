@@ -36,12 +36,12 @@ public partial class MainWindow : Window
         {
             "🐶", "🐶",
             "🐱", "🐱",
-            "🐭", "🐭",
-            "🐹", "🐹",
             "🐰", "🐰",
-            "🦊", "🦊",
-            "🐻", "🐻",
-            "🐼", "🐼"
+            "🦁", "🦁",
+            "🐔", "🐔",
+            "🐧", "🐧",
+            "🐤", "🐤",
+            "🦉", "🦉"
         };
 
         Random random = new Random(); // create a new random number generator
