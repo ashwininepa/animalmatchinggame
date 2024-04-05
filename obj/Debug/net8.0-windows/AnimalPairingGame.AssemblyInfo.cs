@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnimalPairingGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eaf70e6240672d2f4b044150560f50f59cca9413")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a341665605b702e4b047d670511a0901544018e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnimalPairingGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnimalPairingGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
